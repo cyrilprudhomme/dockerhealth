@@ -1,0 +1,7 @@
+{
+  "name": "dockerhealth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
