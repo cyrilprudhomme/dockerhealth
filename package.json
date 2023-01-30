@@ -29,8 +29,6 @@
     "@ionic/angular": "^6.1.9",
     "docker-cli-js": "^2.10.0",
     "ionicons": "^6.0.3",
-    "node-docker-api": "^1.1.22",
-    "os-browserify": "^0.3.0",
     "rxjs": "~7.5.0",
     "stream": "^0.0.2",
     "tslib": "^2.3.0",
