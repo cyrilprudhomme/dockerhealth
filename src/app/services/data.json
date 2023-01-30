@@ -1,0 +1,57 @@
+[
+  {
+    "Containers": -1,
+    "Created": 1675058534,
+    "Id": "sha256:7b0c90d74b7e57e01609d6c10294d60d95ffc892076e48aff700fca3a61c0be8",
+    "Labels": {
+      "maintainer": "cprudhomme"
+    },
+    "ParentId": "",
+    "RepoDigests": [
+      "ucf-lnexias101:5000/siriuswsauth@sha256:689cd7f56fa5c682c6195542a356f2facaaaa84ad9066d1f926da636218c1fc3"
+    ],
+    "RepoTags": [
+      "ucf-lnexias101:5000/siriuswsauth:3.2.0-1876"
+    ],
+    "SharedSize": -1,
+    "Size": 393539011,
+    "VirtualSize": 393539011
+  },
+  {
+    "Containers": -1,
+    "Created": 1675058514,
+    "Id": "sha256:1d3fc00ba2571aaad5e9f814a78303d4ee90a7236b07dbbdfd150d0a26d0b9bf",
+    "Labels": {
+      "maintainer": "cprudhomme"
+    },
+    "ParentId": "",
+    "RepoDigests": [
+      "ucf-lnexias101:5000/siriusws@sha256:ea38632333a13f74c580a7903ae1fcf1a3e43e15f9dcc36df4134e0b76acaac1"
+    ],
+    "RepoTags": [
+      "ucf-lnexias101:5000/siriusws:3.2.0-1876"
+    ],
+    "SharedSize": -1,
+    "Size": 393542557,
+    "VirtualSize": 393542557
+  },
+  {
+    "Containers": -1,
+    "Created": 1675058480,
+    "Id": "sha256:e01e021f619bdda9a0503b57907244237af5cdb76730202134399eb75ea573d2",
+    "Labels": {
+      "maintainer": "cprudhomme"
+    },
+    "ParentId": "",
+    "RepoDigests": [
+      "ucf-lnexias101:5000/siriuscmcloud@sha256:04a2fc145806b99decc10a82b1133c449d1a4dc37222f9450c79650dd89dbe80"
+    ],
+    "RepoTags": [
+      "ucf-lnexias101:5000/siriuscmcloud:3.2.0-1876"
+    ],
+    "SharedSize": -1,
+    "Size": 788482943,
+    "VirtualSize": 788482943
+  }
+]
+
